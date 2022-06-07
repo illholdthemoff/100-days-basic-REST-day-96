@@ -1,0 +1,27 @@
+{
+  "name": "100-days-basic-rest-day-96",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illholdthemoff/100-days-basic-REST-day-96.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illholdthemoff/100-days-basic-REST-day-96/issues"
+  },
+  "homepage": "https://github.com/illholdthemoff/100-days-basic-REST-day-96#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
